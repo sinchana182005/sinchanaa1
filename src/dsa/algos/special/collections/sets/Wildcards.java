@@ -15,6 +15,7 @@ public class Wildcards {
             strings.add("Python");
             strings.add("C++");
             printList(strings);
+
             List<Integer>integers=new ArrayList<>();
             integers.add(1);
             integers.add(2);
